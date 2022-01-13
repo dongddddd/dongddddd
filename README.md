@@ -5,21 +5,14 @@
  Daejin Univsersity 2021 Member
  
  ## About me
- ------------------------------------------------------------------------------------
+
  + 🍀 I'm currently learning React, JavaScript, HTML, CSS
  + 🌿 If you need to reach me: habaik0147@gmail.com / Instargram : ds_ds_1115
  
  ## STACK
- ------------------------------------------------------------------------------------
- HTML5 CSS3 JavaScript TypeScript
-
-React React Create React App styled-components
  
-
-
-
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dongddddd&repo=dongddddd&theme=dark&hide_border=true)](https://github.com/dongddddd/dongddddd)
+ 
+ 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongseok&show_icons=true&theme=tokyonight)
 
