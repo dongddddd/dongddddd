@@ -7,7 +7,7 @@
  ## About me
 
  + 🍀  I'm currently learning React, JavaScript, HTML, CSS
- + 🌿  If you need to reach me: habaik0147@gmail.com / Instargram : ds_ds_1115
+ + 🌿  If you need to reach me: habaik0147@gmail.com / Instargram : @ds_ds_1115
  
  ## STACK
  
