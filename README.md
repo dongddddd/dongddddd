@@ -10,7 +10,7 @@
  + 🌿  If you need to reach me: habaik0147@gmail.com / Instargram : @ds_ds_1115
  
  ## STACK
- 
+ React 
  
  
 
