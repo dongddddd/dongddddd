@@ -1,6 +1,20 @@
 👋 Hi there, I'm dongseok sin 
- I'm interested in React, JavaScript, TypeScript, HTML, CSS, Recoil, Styled-Component, Framer-motion
- I'm currently learning React, JavaScript, HTML, CSS
+-------------------------------------------------------------------------------------
+ ## Google Developer Student Clubs
+ 
+ Daejin Univsersity 2021 Member
+ 
+ ## About me
+ ------------------------------------------------------------------------------------
+ + 🍀 I'm currently learning React, JavaScript, HTML, CSS
+ + 🌿 If you need to reach me: habaik0147@gmail.com / Instargram : ds_ds_1115
+ 
+ ## STACK
+ ------------------------------------------------------------------------------------
+ HTML5 CSS3 JavaScript TypeScript
+
+React React Create React App styled-components
+ 
 
 
 
