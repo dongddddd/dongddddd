@@ -1,11 +1,11 @@
-### Hi there 👋
-
+👋 Hi there, I'm dongseok sin 
+ I'm interested in React, JavaScript, TypeScript, HTML, CSS, Recoil, Styled-Component, Framer-motion
+ I'm currently learning React, JavaScript, HTML, CSS
 
 
 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dongddddd&repo=dongddddd&theme=dark&hide_border=true)](https://github.com/dongddddd/dongddddd)
-
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongseok&show_icons=true&theme=tokyonight)
 
