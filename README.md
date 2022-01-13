@@ -1,10 +1,15 @@
 ### Hi there 👋
+
+
+
+
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dongddddd&repo=dongddddd&theme=dark&hide_border=true)](https://github.com/dongddddd/dongddddd)
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dongseok&show_icons=true&theme=tokyonight)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dongseok&theme=ayu-mirage&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dongseok&theme=ayu-mirage&layout=compact)](https://github.com/dongddddd)
 
 
 <!--
